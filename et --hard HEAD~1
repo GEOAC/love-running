@@ -1,0 +1,32 @@
+[33m0d8a66e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m add form to test functions unstyled
+[33mab7bd00[m add photo column order masonry design
+[33md1dca7f[m Add styling to gallery for mobile phones
+[33m9694671[m add hidden heading class to meetup times h2
+[33mc3118f9[m add dublin img,flexbox meet up times white text h3 and border
+[33m86c46ae[m add meetup section html
+[33mef54a88[m add flex row and order of items, img in centre between txt
+[33m629d803[m add circular image
+[33m0a1d0d6[m add reasons section
+[33ma892d53[m add hero overlay box and text club name location
+[33m142a949[m Add hero image
+[33m01398d1[m MVP Template - fixed relative URLs
+[33m21360d2[m create gallery and signup pages and add links and active state to nav
+[33mdafe4df[m Style footer icons for all screen sizes
+[33me196814[m Add remaining icon links to footer
+[33mfb5a3d1[m Add font awesome first footer link icon
+[33m762fd45[m Make logo larger, push main down to show larger header
+[33m306dadc[m Make logo larger, push main down to show larger header
+[33mf33bbe4[m add menu dropdown functionality
+[33m3f8d2cd[m removed duplicate css
+[33md209cb5[m added nav toggle checkbox
+[33mec6a064[m nav text spacing and styling
+[33m269c52a[m remove default header link styles
+[33md0290c1[m add box shadow to header
+[33mf61c240[m Create nav section
+[33m462658c[m add logo to header and apply Oswald font
+[33m18aa32d[m added google font
+[33mf8e90de[m Pushed footer down
+[33m51d47b1[m Added css and stylesheet
+[33m523feb3[m Added meta tags
+[33m07df54a[m create boilerplate html and added favicon
+[33m428ab41[m first commit
